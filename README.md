@@ -15,7 +15,7 @@ Nodejs 12.x.
 ## Getting started
 
 Create a user in IAM AWS on your account on AWS and with your access key and secret key, run the follwing command:
-    - serverless config credentials -o --provider aws --key=[accessKey] --secret=[secretKey]
+    `serverless config credentials -o --provider aws --key=[accessKey] --secret=[secretKey]`
 
 This repository doesn't have dependencies so there is no need to install dependencies on this project.
 
